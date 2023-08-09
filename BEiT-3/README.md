@@ -6,7 +6,9 @@ BEiT-3를 비롯한 다른 모델을 Git Clone해서 구글 드라이브에 저�
   3. engine_for_finetuning.py : def get_handler 함수에(442번째 줄) args.task == "vqacustom" 추가  
   4. modeling_finetune.py : vqacustom 모델들 추가 및 num_classes부분 수정(label 수에 맞게)  
   5. run_beit3_finetuning.py : parser.add_argument --task 부분에 vqacustom 추가, args.eval(357번째 줄)에 vqacustom 부분(367~370번째 줄) 추가  
-  
+
+  ### 추가
+  1. 조금 더 다양한 답변을 내고 싶으시면 dataset.py의 CustomDataset에서 639번째 줄에 있는 Countet의 v값을 조금 줄여주세요!
   
 ## Citation  
 ```
