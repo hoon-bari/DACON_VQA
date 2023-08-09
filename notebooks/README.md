@@ -1,7 +1,8 @@
 ## BEiT-3 및 Blip-2의 경우는 DACON의 코드 공유에도 올렸습니다.  
-Blip-2 : https://dacon.io/competitions/official/236118/codeshare/8665?page=1&dtype=recent  
-  
 BEiT-3 :   
+  
+Blip-2 : https://dacon.io/competitions/official/236118/codeshare/8665?page=1&dtype=recent  
+
 
 ## Citations  
 ```
