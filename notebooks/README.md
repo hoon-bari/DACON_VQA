@@ -22,6 +22,15 @@ Blip-2 : https://dacon.io/competitions/official/236118/codeshare/8665?page=1&dty
 }
 ```
 ```
+@article{Blipv2zeroshot,
+    title   = {Investigating Prompting Techniques for Zero- and Few-Shot Visual Question Answering},
+    author  = {Rabiul Awal Le Zhang Aishwarya Agrawal},
+    journal = {ArXiv},
+    year    = {2023},
+    volume  = {abs/2306.09996}
+}
+```
+```
 @article{Blipv2,
     title   = {BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models},
     author  = {Junnan Li Dongxu Li Silvio Savarese Steven Hoi},
