@@ -3,7 +3,7 @@ BEiT-3를 비롯한 다른 모델을 Git Clone해서 구글 드라이브에 저�
   ### 수정 내용   
   1. dataset.py : CustomDataset Class 추가 및 task2dataset에 vqacustom 추가  
   2. utils.py : import torch._six를 torch로 수정(module not found 에러 해결), pos_tokens = pos_tokens.float() 코드 추가(575번째 줄), dump_prediction 함수   
-                (838번째 줄)에 있는 torch.distributed.barrier() 삭제(single GPU에서의 eval 위함, multi GPU의 경우 삭제 안해도 됨)  
+(838번째 줄)에 있는 torch.distributed.barrier() 삭제(single GPU에서의 eval 위함, multi GPU의 경우 삭제 안해도 됨)  
   3. engine_for_finetuning.py : def get_handler 함수에(442번째 줄) args.task == "vqacustom" 추가  
   4. modeling_finetune.py : vqacustom 모델들 추가 및 num_classes부분 수정(label 수에 맞게)  
   5. run_beit3_finetuning.py : parser.add_argument --task 부분에 vqacustom 추가, args.eval(357번째 줄)에 vqacustom 부분(367~370번째 줄) 추가  
