@@ -1,6 +1,7 @@
 ## Fine-tuning for Dacon AI Competition  
 BEiT-3를 비롯한 다른 모델을 Git Clone해서 구글 드라이브에 저장한 후, 수정한 코드만 따로 Git에 저장하였습니다.  
-### 수정 내용   
+  ### 수정 내용   
+  1.  
 
 
 
