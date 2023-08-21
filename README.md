@@ -1,8 +1,8 @@
 # Dacon_VQA
 [DACON, Private 4th] 월간 데이콘 이미지 기반 질의응답 AI 경진대회 코드입니다.   
 
-![001](https://github.com/hoon-bari/Dacon_VQA/assets/121400054/3bb2c319-90e9-49e4-bbdb-0a8111997f94)
-![002](https://github.com/hoon-bari/Dacon_VQA/assets/121400054/a52498de-61ec-4352-82da-d1fd7b72a972)
+![001](https://github.com/hoon-bari/Dacon_VQA/assets/121400054/55218042-392f-4201-a06e-6ff0a8041f5a)
+![002](https://github.com/hoon-bari/Dacon_VQA/assets/121400054/4919c599-614b-4543-a2e2-02c7650b50d9)
 ![003](https://github.com/hoon-bari/Dacon_VQA/assets/121400054/79c9aeec-0fe8-4587-a22e-4d679800a00d)
 ![004](https://github.com/hoon-bari/Dacon_VQA/assets/121400054/e32d68e3-d491-4d58-bdd4-868125e3c1b6)
 ![005](https://github.com/hoon-bari/Dacon_VQA/assets/121400054/fdd186fe-0315-4817-8d01-ba361b664372)
